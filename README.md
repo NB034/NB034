@@ -1,4 +1,11 @@
-### Hi there 👋
+[![codewars](https://www.codewars.com/users/NB_034/badges/large)](https://www.codewars.com/users/NB_034)
+
+
+
+
+
+
+
 
 <!--
 **NB034/NB034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
