@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0128128&lines=Beginning+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4169E1&lines=Beginning+developer)](https://git.io/typing-svg)
 
 
 
 <!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0128128&lines=Software+developer+student)](https://git.io/typing-svg)
+
 **NB034/NB034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
