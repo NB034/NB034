@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2c77e3&lines=Beginning+developer)](https://git.io/typing-svg)
 
+[![codewars](https://www.codewars.com/users/NB034/badges/large)]([https://www.codewars.com/users/username](https://www.codewars.com/users/NB034))
+
+
 
 
 <!--
